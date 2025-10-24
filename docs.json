@@ -20,31 +20,7 @@
               "quickstart",
               "development"
             ]
-        }
-      ]
-    },
-    {
-      "language": "de",
-      "groups": [
-        {
-          "group": "Getting started",
-          "pages": ["de/overview", "de/quickstart", "de/development"]
-        }
-      ]
-    }
-    ],
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
+        },
           {
             "group": "Customization",
             "pages": [
@@ -69,28 +45,17 @@
               "ai-tools/windsurf"
             ]
           }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
+      ]
+    },
+    {
+      "language": "de",
+      "groups": [
+        {
+          "group": "Getting started",
+          "pages": ["de/overview", "de/quickstart", "de/development"]
+        }
+      ]
+    }
     ],
     "global": {
       "anchors": [
