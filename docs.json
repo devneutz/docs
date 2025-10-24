@@ -20,11 +20,11 @@
       ]
     },
     {
-      "language": "es",
+      "language": "de",
       "groups": [
         {
           "group": "Getting started",
-          "pages": ["es/overview", "es/quickstart", "es/development"]
+          "pages": ["de/overview", "de/quickstart", "de/development"]
         }
       ]
     }
